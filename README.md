@@ -1,27 +1,18 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0e75b6&height=200&section=header&text=Abdul%20Hafeez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0e75b6&height=220&section=header&text=Abdul%20Hafeez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<!-- Typing -->
+<!-- TAGLINE -->
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+React+Developer;3%2B+Years+Experience;Building+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=700&lines=Full+Stack+Laravel+Developer;React+Developer+%7C+Backend+Specialist;3%2B+Years+Experience;Building+Scalable+Web+Applications" />
 </p>
 
-<!-- Badges -->
+<!-- BADGES -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=abdulhafeez&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/abdulhafeez?label=Followers&style=for-the-badge&logo=github" />
-</p>
-
-<!-- Social Links -->
-<p>
-  <a href="https://www.linkedin.com/in/abdul-hafeez-00073b2b0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://hafeezportfolio.customwebsitedemo.host/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-0e75b6?style=for-the-badge" />
 </p>
 
 </div>
@@ -30,12 +21,12 @@
 
 ## 💼 About Me
 
-- 🚀 Full Stack Developer (Laravel + React)  
-- 💻 3+ years experience in Web Development  
-- 🏫 Learned Web Development from **Al Fateem Academy**  
-- 🛒 Built dynamic E-commerce systems with authentication & cart  
-- 🎯 Focused on clean UI, performance & scalable solutions  
-- 📍 Karachi, Pakistan  
+🚀 Full Stack Developer specializing in **Laravel & React**  
+💻 3+ years of hands-on experience in web development  
+🛒 Built complete **E-commerce systems (cart, checkout, auth, admin panel)**  
+🎯 Focused on clean UI, performance & scalable backend architecture  
+📍 Based in Karachi, Pakistan  
+⚡ Passionate about freelancing & remote opportunities  
 
 ---
 
@@ -65,52 +56,40 @@
 
 ## 🚀 Featured Projects
 
-- 🛒 **Laravel E-commerce Website**  
-  → Product listing, search, cart system, authentication  
+### 🛒 Laravel E-commerce System
+- Product listing with categories
+- Cart & checkout system
+- Authentication & user roles
+- Admin dashboard
 
-- 📦 **CRUD Admin Panel (Laravel)**  
-  → Image upload, update, delete with database sync  
+### 📦 CRUD Management System
+- Create / Read / Update / Delete operations
+- Image upload handling
+- Database integration
+- Optimized performance
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdulhafeez&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulhafeez&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhafeez&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhafeez&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-
-## 🚧 Current Focus
+## 🚀 Current Focus
 
 ```text
-🔭 Building     →  Advanced Laravel Projects
-🌱 Learning     →  System Design + APIs
-🎯 Goal         →  Freelancing & Remote Opportunities
-
----
-
-## 📬 Contact Me
-
-📞 Phone:
-- 0334-2878367  
-- 0336-8165234  
-
-📧 Email:
-- abdulhafeez.dev@gmail.com  
-
-🌐 Work References:
-- 🔗 https://motokloz.com/  
-- 🔗 http://metapedia.demowebtest.com/  
-
----
-
-<div align="center">
-
-<!-- Footer Line -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0D1117&height=120&section=footer"/>
-  
-</div>
-
-
+🔭 Working on   → Advanced Laravel SaaS Projects  
+🌱 Learning     → System Design + API Architecture  
+🎯 Goal         → Freelancing (Upwork / Remote Jobs)  
+💡 Improving    → Clean Code & Scalable Backend Systems  
