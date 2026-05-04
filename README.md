@@ -89,14 +89,28 @@
 🌱 Learning     →  System Design + APIs
 🎯 Goal         →  Freelancing & Remote Opportunities
 
-🌐 Work / References
-🛒 MotoKloz (E-commerce Project) → https://motokloz.com/
-📘 MetaPedia (Demo Project) → http://metapedia.demowebtest.com/
+---
 
+## 📬 Contact Me
 
-📞 Contact Me
-📧 Email: abdulhafeezwebdev@gmail.com
-📱 Phone: 0334 2878367
-📱 Phone: 0336 8165234
+📞 Phone:
+- 0334-2878367  
+- 0336-8165234  
+
+📧 Email:
+- abdulhafeez.dev@gmail.com  
+
+🌐 Work References:
+- 🔗 https://motokloz.com/  
+- 🔗 http://metapedia.demowebtest.com/  
+
+---
+
+<div align="center">
+
+<!-- Footer Line -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0D1117&height=120&section=footer"/>
+  
+</div>
 
 
