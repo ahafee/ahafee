@@ -1,87 +1,73 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0e75b6&height=200&section=header&text=Mohsin%20Khan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" />  Welcome, I'm Abdul Hafeez
 
-<!-- Typing Animation -->
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Linux+%2F+OSS+Enthusiast;Building+Cool+Stuff+🚀" />
-</p>
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=donatedsalt&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-</div>
-
----
-
-## 🚀 About Me  
-- 🔭 Working on **School Management System (ASP.NET Core)**  
-- 🌱 Currently learning **System Design + Advanced Backend**  
-- 🐧 Arch Linux user (BTW 😏)  
-- ⚡ Hate heavy editors → Love **Neovim**  
-
----
-
-## 🧠 Tech Stack  
-
-### 🎨 Frontend  
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css,flutter,dart" />
-</p>
-
-### ⚙️ Backend  
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,python,nodejs,express,bun" />
-</p>
-
-### 🗄️ Database  
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,mssql" />
-</p>
-
-### 🐳 DevOps & Tools  
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,bash,arch" />
-</p>
-
----
-
-## 📊 GitHub Analytics  
+### 🚀 Full Stack Architect | OSS Champion | Linux Warlord
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=donatedsalt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=donatedsalt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=👑+VIP+Developer;⚡+7%2B+years+of+code+alchemy;🐧+Arch+Linux+evangelist;✨+Turning+ideas+into+digital+reality" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=donatedsalt&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://komarev.com/ghpvc/?username=abdulhafeez&label=🌟+Elite+Profile+Views&color=ff69b4&style=for-the-badge&logo=github" alt="profile-views" />
+  <img src="https://img.shields.io/github/followers/abdulhafeez?label=👑+Royal+Followers&style=for-the-badge&logo=github&color=gold" />
 </p>
+
+<br/>
 
 ---
 
-## 🏆 Achievements  
+### 💎 The VIP Stack
+
+| **Domain**       | **Crown Jewels** |
+| :---             | :---             |
+| **Frontend**     | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,flutter" /></a> |
+| **Backend**      | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,cs,go,rust,python,nodejs,express" /></a> |
+| **Database**     | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,cassandra,sqlite" /></a> |
+| **DevOps & Cloud** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,jenkins,terraform,linux,bash" /></a> |
+| **Editors & Power** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=neovim,emacs,vscodium,gitlab" /></a> |
+
+<br/>
+
+---
+
+### 📈 Animated GitHub Royal Court
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=donatedsalt&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=abdulhafeez&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff79c6&icon_color=8be9fd&text_color=f8f8f2" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=abdulhafeez&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff79c6" />
 </p>
-
----
-
-## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/donatedsalt/">
-    <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mmohsinkhan3685@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/603649445732810756">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhafeez&theme=radical&hide_border=true&background=0D1117&stroke=ff79c6&ring=ffb86c&fire=ff5555" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulhafeez&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=🔥%20Royal%20Commit%20Aura" width="88%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdulhafeez/abdulhafeez/output/snake.svg" alt="Snake animation" />
+</p>
+
+<br/>
 
 ---
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0D1117&height=120&section=footer"/>
+### 🏆 Trophies & Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulhafeez&theme=darkhub&no-frame=true&column=5&margin-w=12&margin-h=12" />
+</p>
+
+<br/>
+
+---
+
+### 🧙‍♂️ Currently in the Alchemy Lab
+
+```text
+🔭 Architecting  →  Enterprise School Management Suite (ASP.NET Core + Next.js)
+🌱 Mastering     →  WebAssembly & Rust 🦀
+🤝 Seeking       →  Open source collaborations (Gnome/KDE contributors welcome)
+⚡ Secret power  →  I can fix merge conflicts with my eyes closed 🥷
