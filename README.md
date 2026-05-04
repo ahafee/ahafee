@@ -81,9 +81,6 @@
 
 ---
 
-🌐 Work / References
-🛒 MotoKloz (E-commerce Project) → https://motokloz.com/
-📘 MetaPedia (Demo Project) → http://metapedia.demowebtest.com/
 
 ## 🚧 Current Focus
 
@@ -91,6 +88,11 @@
 🔭 Building     →  Advanced Laravel Projects
 🌱 Learning     →  System Design + APIs
 🎯 Goal         →  Freelancing & Remote Opportunities
+
+🌐 Work / References
+🛒 MotoKloz (E-commerce Project) → https://motokloz.com/
+📘 MetaPedia (Demo Project) → http://metapedia.demowebtest.com/
+
 
 📞 Contact Me
 📧 Email: abdulhafeezwebdev@gmail.com
